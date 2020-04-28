@@ -21,3 +21,5 @@ pkg
 
 # rspec failure tracking
 .rspec_status
+
+.idea
