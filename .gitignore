@@ -1,0 +1,23 @@
+# rcov generated
+coverage
+coverage.data
+
+# rdoc generated
+rdoc
+
+# yard generated
+doc
+.yardoc
+
+# bundler
+.bundle
+Gemfile.lock
+
+# rbenv
+.ruby-version
+
+# jeweler generated
+pkg
+
+# rspec failure tracking
+.rspec_status
